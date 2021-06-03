@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for the passing of the bill concerning the settlement of ba[nks of l]oan upon pawns to prevent the great extortion of brokers, and for the easie relief of necessitated persons.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28718</idno><idno type="EEBO-CITATION">99883425</idno>
+  <idno type="VID">186283</idno>
+  <idno type="EEBO-PROQUEST">2240885086</idno>
+  
+            <idno type="STC">Wing R515</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[83]</idno>
+            <idno type="STC">ESTC R206866</idno>
+            <idno type="PROQUEST">ocm99883425</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883425e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186283)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[80])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for the passing of the bill concerning the settlement of ba[nks of l]oan upon pawns to prevent the great extortion of brokers, and for the easie relief of necessitated persons.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Loans, Personal --  England --  Early works to 1800.</term>
+               <term type="topical_term">Banks and banking --  England --  Early works to 1800.</term>
+               <term type="topical_term">Pawnbroking --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186283:1"/>
+            <head>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>SONS for the passing of the Bill concerning the Settlement of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oan upon Pawns to prevent the great Extortion of Brokers, and for the easie relief of necessitated Persons.</head>
+            <p>AS the general necessity of men throughout the world constrains them to seek relief where it may be had, so that (for want of better) experience doth teach that they must have their recourse to such supplies as Brokers afford on Pawnes, who though for the present relieved with a loan, yet that loan proves to them as a Canker, which in a short time destroyes their whole substance.</p>
+            <p>And therefore it is that the whole Nation suffers, and doth impoverish every day, whereas others (who in their greatest distress and necessities can have their recourse to Banks of Loan) do enrich themselves, and all Trading flourishes amongst them, no beggers seen in their streets, their High wayes freed from Robbers, and their Gibbets not stored with such a number of both Sexes, as at Sessions time are seen within his <hi>Majesties</hi> Dominions, because Brokers do (a<g ref="char:EOLhyphen"/>gainst Statute) exercise their extortions on all needy persons, who must take their recourse unto the continual breach of the Kings Laws, by poor folks turning thieves.</p>
+            <p n="1">1. Brokers commonly take three or four times the value of what they lend, and sixty <hi>per Cent. per annum</hi> for what is so pawned.</p>
+            <p n="2">2. They do take forfeiture at three or six months.</p>
+            <p n="3">3. They do constrain the poor to continue their pawn from month to month, so that the poor must be at the charge of a months Interest perhaps for two dayes.</p>
+            <p n="4">4. They reckon six pence <hi>per</hi> pound a month, and six pence for Bill money.</p>
+            <p n="5">5. If a pawn continue but one week above the month, they exact the two months.</p>
+            <p n="6">6. They lend no money, but on such things as they fancy.</p>
+            <p n="7">7. They sell the pawns without restoring the surplus to the Proprietors.</p>
+            <p n="8">8. Pawns are often lost by Brokers carelesness of them, or becoming Bankrout; Jewels and other things of great worth have often been conveyed away, for being by them posted from one hand to another, because their particular stock could not suffice to keep those parcels. In a word, by reason of the great number of Brokers, stoln goods cannot be recovered, the owners not knowing where to enquire for them.</p>
+            <p>Now that there is a self conviction and condemnation in these things is manifest, in that they have themselves contrived and consented to a remedy, That the names of persons who borrow money on pawnes, should be recorded in an Office, but the remedy they have agreed to would prove worse then the disease.</p>
+            <p n="1">1. For that thieves giving in false names, would be the more secured in their dishonesty.</p>
+            <p n="2">2. In that the needy (for whom relief is intended) pawn their Estates, and record their credit, and so lose both; for that all Merchants and Tradesmen (who are the sinews of a well governed State, whose credit is of far greater consequence then their estate) would thus be exposed to jealousie and question, though they had enough to make good all</p>
+            <p>Likewise persons of more eminent quality (who may have occasion to take up money on some pawne of great value) cannot but count it derogation to their honour to have their names so recorded and exposed to publick view.</p>
+            <p>Likewise any man that hath a daughter to dispose of (and thereby occasion to make up some smal sum of the portion) may by this means prejudice all the rest of his children.</p>
+            <p>
+               <label>The sole necessary remedy against this great Grievance of the Nation, is as followeth:</label> To obtain of his Majesty and Parliament, leave to erect Banks of Loan, as in divers other Christian Governments, <hi>viz. Spain, Italy, Lorrain,</hi> some parts of <hi>France</hi> and the <hi>Netherlands,</hi> where the Banks are established and governed according to the principles of Charity and Christianity, both in respect of the borrower and lender, and in respect also of those that are continually imployed in the Office.</p>
+            <p>
+               <label>That the Remedies may appear to be true, a remedy, and no palliation, the benefits are here set down, per Order.</label> First, Banks of Loan are the safest Treasurers, being built as hereafter is exprest.</p>
+            <p>Secondly, Monies to be had there at all times, on all kind of pawns for rich and poor, at reasonable rates, and favourable advantagious conditions to the borrowers at the fifth part less charge then the Brokers extort from the necessitous, and without any forfeiture at all, without constraint to leave their pawns a months time, but with liberty to redeem them at a weeks, and allowing but two farthings and a half per pound per week, instead of six pence per month, which the Brokers do extort, and three half pence which the Majestrates where Banks are established do allow.</p>
+            <p>Thirdly, Monies are lent on all kind of pawnes.</p>
+            <p>Fourthly pawnes are not sold, but on condition that the surplus shall be restored to the Proprietors.</p>
+            <p>Fifthly, None can be lost by reason of the good order and care of the Officers.</p>
+            <p>Sixthly, The Banks cannot run away, nor become Bankrout, for they are fixed where they are erected, the Stock and Jewels remaining there (and all other things of great worth) kept under treble keyes of the superior Officers. And as the Banks are free from fire and thieves (and open violence in time of uproar) so are they the on<g ref="char:EOLhyphen"/>ly and most ready way for persons (whose Goods have been stolen) to send their Tickets to make stop of stolen Goods.</p>
+            <p>Seventhly, The Banks cannot deceive, for as there is no trust, but for Ticket and Money, the Administrators are sworn persons who have given publick security, and are under the Examination of Surintendants, authorized by the Sovereign power. They have also a Stock in the Bank, so as they are particularly concerned in its preservation.</p>
+            <p>Eighthly, The Administration of the Bank admits not of, nor is subject to Litigious Titles, nor gives doubtful expressions; as it wounds no mans Credit, for that there are no names of borrowers put in their Records, nor on their Tickets. The Tickets are divided into two parts, the one half is fixt with the Pawn, the other is given to the party that receives the Money, and bears no more save the nomination of the Pawn, the Date, and the Sum lent thereon.</p>
+            <p>Whosoever therefore sends to such a publick authorized Bank (either in the morning or in the afternoon) finds therein a Surintendent, a Recorder, a Praiser, and a Cashier, persons (as aforesaid) of known integrity, who attend at set hours, and who do admit the poorest, as well as such sent by the most eminent, who do in<g ref="char:EOLhyphen"/>stantly Tax the Pawn, were it but a pair of Shoos or a womans Coif, and presently relieve the needy, whom they dispatch at an instant, and disappoint none, be their Pawn never so small.</p>
+            <p>And if it happen that Merchants are constrained to send privately to the Surintendent for a considerable relief, on occasion when their Cash is unprovided, or sudden loss, or bills of Exchange surprize them, or that store of their Merchandise (by ships returned from remote parts in an unfit season for sale and good market) lyeth on their hands, the Merchandises are accepted, safely stored up, and timely relief afforded them, without publishing the Merchants name, who thereby saves his Credit, and is prevented from becoming Banquerout.</p>
+            <p>The same benefit redounds unto Tradesmen and Countreymen, when surprized for want of mony to pay their Landlord, they prevent the forfeiture of Leases, and wait a good market to discharge all.</p>
+            <p>That the Clothiers also, for want of a good market, may leave their Cloath in the Bank till better opportunity, without prejudice.</p>
+            <p>Thus all other Traders (when they want their Market and finde no Chapman) may leave their goods there till a Market come.</p>
+            <p>And as the poor people (that live from hand to mouth) do receive moneys upon their meanest Pawns, and thereby chiefly supply their necessities to manage their little trading up and down the streets, and do not so much as feel that little consideration for the use of the mony, which the Bank takes for their charges they must be at.</p>
+            <p>First, The use of the Stock wherewith the Bank must be continually provided, and is according to the Statute.</p>
+            <p>Secondly, To defray the stipends of the Surintendet, every superior, and inferior Officers under them, as Praysers of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ewels and other sorts of precious comodi<g ref="char:EOLhyphen"/>ties, whereby the Bank may suffer notable damage by false Jewels, the change of Fashions th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>Thirdly <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>These Charges are found in all other parts unavoidable, and therefore <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pream <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tute. The Charges must be allowed over and above the said Use.</p>
+            <p>And therefore such Magistrates have ordained it lawful to the Administrators, to take one penny <hi>per</hi> pound, <hi>per</hi> week; but the Brokers (as abovesaid) take twice, if not thrice as much, besides their over-reaching sometimes the necessitous to their utter ruine.</p>
+            <p>Secondly, That the Pawn may be redeemed every week.</p>
+            <p>Thirdly, That the Proprietor may have them a full Year and Six Weeks in the Bank, and longer if they please, renewing their Ticket yearly.</p>
+            <p>Finally, That when Proprietors suffer their Pawns to be sold, they may send to enhaunce the price at the sale day, and call for the surplusage.</p>
+            <p>Now whereas the said Magistates for the good of the Publick, have made such a Regulation, and all people under them find cause to bless God for it; much more will his Majesties Subjects have Just reason to do the like, when Banks of Loan within his Majesties Dominions, shal (as aforesaid) take no more then two Farthings and an half <hi>per</hi> pound, <hi>per</hi> week, which is neer half less then Banks beyond the Seas take, when as they can have monies for their stock at four <hi>per Cent. per An.</hi>
+            </p>
+            <p>All these things considered by Learned and Conscientious Divines and Lawyers, they have asserted, That such reasonable proceedings could not intrench on Usury, much less on Extortion: But contrariwise have defended it both by Reason and Scripture; whereupon the Banks aforesaid (in regard of the Pious and Charitable ef<g ref="char:EOLhyphen"/>fects of them) have been universally called, <hi>Mounts of Piety.</hi>
+            </p>
+            <pb facs="tcp:186283:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
